@@ -1,0 +1,110 @@
+^Annual Tax Statement^
+
+File Creation Date^Permanent Account Number (PAN)^Current Status of PAN^Financial Year^Assessment Year^Name of Assessee^Address Line 1^Address Line 2^Address Line 3^Address Line 4^Address Line 5^Statecode^Pin Code
+13-02-1999^BOSSP1881M^ACTIVE AND OPERATIVE^2023-2024^2024-2025^CHOTTABHEEM^1/24B^^LADOO STREET^DHOLAKPUR TK^^RAJASTHAN^123456
+
+^PART-I - Details of Tax Deducted at Source^
+Sr. No.^Name of Deductor^TAN of Deductor^^^^^Total Amount Paid / Credited(Rs.)^Total Tax Deducted(Rs.)^Total TDS Deposited(Rs.)
+1^DHOLU BHOLU BANK CONTONMENT^SHEI03486E^^^^^6393309.00^639331.00^639331.00^
+^Sr. No.^Section^Transaction Date^Status of Booking^Date of Booking^Remarks^Amount Paid / Credited(Rs.)^Tax Deducted(Rs.)^TDS Deposited(Rs.)
+^1^194A^31-Mar-2024^F^05-May-2024^-^15113.00^1511.00^1511.00^
+^2^194A^31-Mar-2024^F^05-May-2024^-^9744.00^974.00^974.00^
+^3^194A^31-Mar-2024^F^05-May-2024^G^-9744.00^-974.00^-974.00^
+^4^194A^31-Mar-2024^F^05-May-2024^-^304228.00^30423.00^30423.00^
+^5^194A^31-Mar-2024^F^05-May-2024^G^-304228.00^-30423.00^-30423.00^
+^6^194A^31-Mar-2024^F^05-May-2024^-^444602.00^44461.00^44461.00^
+^7^194A^31-Mar-2024^F^05-May-2024^G^-444602.00^-44461.00^-44461.00^
+^8^194A^31-Mar-2024^F^05-May-2024^-^9744.00^974.00^974.00^
+^9^194A^31-Mar-2024^F^05-May-2024^G^-9744.00^-974.00^-974.00^
+^10^194A^31-Mar-2024^F^05-May-2024^-^304228.00^30423.00^30423.00^
+^11^194A^31-Mar-2024^F^05-May-2024^G^-304228.00^-30423.00^-30423.00^
+^12^194A^31-Mar-2024^F^05-May-2024^-^444602.00^44461.00^44461.00^
+^13^194A^31-Mar-2024^F^05-May-2024^G^-444602.00^-44461.00^-44461.00^
+^14^194A^31-Mar-2024^F^05-May-2024^-^9744.00^974.00^974.00^
+^15^194A^31-Mar-2024^F^05-May-2024^-^304228.00^30423.00^30423.00^
+^16^194A^31-Mar-2024^F^05-May-2024^-^287591.00^28759.00^28759.00^
+^17^194A^31-Mar-2024^F^05-May-2024^-^488519.00^48852.00^48852.00^
+^18^194A^31-Mar-2024^F^05-May-2024^-^444602.00^44461.00^44461.00^
+^19^194A^31-Mar-2024^F^05-May-2024^-^469191.00^46919.00^46919.00^
+^20^194A^19-Mar-2024^F^05-May-2024^-^45648.00^4565.00^4565.00^
+^21^194A^19-Mar-2024^F^05-May-2024^-^45648.00^4565.00^4565.00^
+^22^194A^19-Mar-2024^F^05-May-2024^G^-45648.00^-4565.00^-4565.00^
+^23^194A^19-Mar-2024^F^05-May-2024^-^45648.00^4565.00^4565.00^
+^24^194A^19-Mar-2024^F^05-May-2024^G^-45648.00^-4565.00^-4565.00^
+^25^194A^19-Mar-2024^F^05-May-2024^-^206500.00^20650.00^20650.00^
+^26^194A^12-Mar-2024^F^05-May-2024^-^10621.00^1062.00^1062.00^
+^27^194A^12-Mar-2024^F^05-May-2024^-^10621.00^1062.00^1062.00^
+^28^194A^12-Mar-2024^F^05-May-2024^G^-10621.00^-1062.00^-1062.00^
+^29^194A^12-Mar-2024^F^05-May-2024^-^10621.00^1062.00^1062.00^
+^30^194A^12-Mar-2024^F^05-May-2024^G^-10621.00^-1062.00^-1062.00^
+^31^194A^20-Jan-2024^F^05-May-2024^-^33412.00^3341.00^3341.00^
+^32^194A^20-Jan-2024^F^05-May-2024^-^33412.00^3341.00^3341.00^
+^33^194A^20-Jan-2024^F^05-May-2024^G^-33412.00^-3341.00^-3341.00^
+^34^194A^20-Jan-2024^F^05-May-2024^-^33412.00^3341.00^3341.00^
+^35^194A^20-Jan-2024^F^05-May-2024^G^-33412.00^-3341.00^-3341.00^
+^36^194A^30-Dec-2023^F^22-Jan-2024^-^51395.00^5140.00^5140.00^
+^37^194A^30-Dec-2023^F^22-Jan-2024^-^1573.00^157.00^157.00^
+^38^194A^30-Dec-2023^F^22-Jan-2024^G^-1573.00^-157.00^-157.00^
+^39^194A^30-Dec-2023^F^22-Jan-2024^-^2306.00^231.00^231.00^
+^40^194A^30-Dec-2023^F^22-Jan-2024^G^-2306.00^-231.00^-231.00^
+^41^194A^30-Dec-2023^F^22-Jan-2024^-^23003.00^2300.00^2300.00^
+^42^194A^30-Dec-2023^F^22-Jan-2024^G^-23003.00^-2300.00^-2300.00^
+^43^194A^30-Dec-2023^F^22-Jan-2024^-^1573.00^157.00^157.00^
+^44^194A^30-Dec-2023^F^22-Jan-2024^-^2306.00^231.00^231.00^
+^45^194A^30-Dec-2023^F^22-Jan-2024^-^23003.00^2300.00^2300.00^
+^46^194A^24-Nov-2023^F^22-Jan-2024^-^735565.00^73556.00^73556.00^
+^47^194A^24-Nov-2023^F^22-Jan-2024^-^735565.00^73556.00^73556.00^
+^48^194A^24-Nov-2023^F^22-Jan-2024^G^-735565.00^-73556.00^-73556.00^
+^49^194A^30-Sep-2023^F^28-Oct-2023^-^37513.00^3751.00^3751.00^
+^50^194A^30-Sep-2023^F^28-Oct-2023^-^5616.00^562.00^562.00^
+^51^194A^30-Sep-2023^F^28-Oct-2023^-^363896.00^36390.00^36390.00^
+^52^194A^30-Sep-2023^F^28-Oct-2023^-^388992.00^38899.00^38899.00^
+^53^194A^30-Sep-2023^F^28-Oct-2023^-^27531.00^2753.00^2753.00^
+^54^194A^30-Sep-2023^F^28-Oct-2023^-^51824.00^5182.00^5182.00^
+^55^194A^30-Sep-2023^F^28-Oct-2023^-^2378806.00^237881.00^237881.00^
+^56^194A^30-Sep-2023^F^28-Oct-2023^-^10120.00^1012.00^1012.00^
+
+
+^PART-II - Details of Tax Deducted at Source for 15G / 15H^
+Sr. No.^Name of Deductor^TAN of Deductor^^^^Total Amount Paid / Credited(Rs.)^Total Tax Deducted(Rs.)^Total TDS Deposited(Rs.)
+^^^*********** No Transactions Present **********^
+
+
+^PART-III - Details of Transactions under Proviso to section 194B/First Proviso to sub-section (1) of section 194R/ Proviso to sub-section(1) of section 194S
+Sr. No.^Name of Deductor^TAN of Deductor^^^^^Total Amount Paid / Credited(Rs.)
+^^^*********** No Transactions Present **********^
+
+
+^PART-IV - Details of Tax Deducted at Source  u/s 194IA/ 194IB /  194M/  194S (For Seller/Landlord of Property/Contractors or professionals/ Seller of Virtual Digital Asset)^
+Sr. No.^Acknowledgement Number^Name of Deductor^PAN of Deductor^Transaction Date^Total Transaction Amount(Rs.)^Total TDS Deposited(Rs.)
+^^^*********** No Transactions Present **********^
+
+^PART-V - : Details of Transactions under Proviso to sub-section(1) of section 194S as per Form-26QE (For Seller of Virtual Digital Asset)^
+Sr. No.^Acknowledgement Number^Name of Buyer^PAN of Buyer^Transaction Date^Total Transaction Amount(Rs.)
+^^^*********** No Transactions Present **********^
+
+^PART-VI - Details of Tax Collected at Source^
+Sr. No.^Name of Collector^TAN of Collector^^^^^Total Amount Paid / Debited(Rs.)^Total Tax Collected(Rs.)^Total TCS Deposited(Rs.)
+1^KALYA INDIA PRIVATE LIMITED^BMSV17734F^^^^^3274500.00^32745.00^32745.00^
+^Sr. No.^Section^Transaction Date^Status of Booking^Date of Booking^Remarks^Amount Paid / Debited(Rs.)^Tax Collected(Rs.)^TCS Deposited(Rs.)
+^1^206CL^25-Aug-2023^F^18-Oct-2023^-^3274500.00^32745.00^32745.00^
+
+
+^PART-VII - Details of Paid Refund (For which source is CPC TDS. For other details refer AIS at E-filing portal)^
+Sr. No.^Assessment Year^Mode^Refund Issued^Nature of Refund^Amount of Refund(Rs.)^Interest(Rs.)^Date of Payment^Remarks
+^^^*********** No Transactions Present **********^
+
+
+^PART-VIII - Details of Tax Deducted at Source  u/s 194IA/ 194IB /194M/194S (For Buyer/Tenant of Property /Person making payment to contractors or Professionals/Buyer of Virtual Digital Asset)^
+Sr. No.^Acknowledgement Number^Name of Deductee^PAN of Deductee^Transaction Date^Total Transaction Amount(Rs.)^Total TDS Deposited(Rs.)^Total Amount Deposited other than TDS(Rs.)
+^^^*********** No Transactions Present **********^
+
+^PART-IX -Details of Transactions/Demand Payments under Proviso to sub-section(1) of section 194S as per Form 26QE (For Buyer of Virtual Digital Asset)^
+Sr. No.^Acknowledgement Number^Name of Seller^PAN of Seller^Transaction Date^Total Transaction Amount(Rs.)^Total Amount Deposited other than TDS(Rs.)
+^^^*********** No Transactions Present **********^
+
+^PART-X - TDS/TCS Defaults* (Processing of Statements)^
+Sr. No.^Financial Year^Short Payment^Short Deduction/Collection^Interest on TDS/TCS Payments default^Interest on TDS/TCS Deduction/Collection Default^Late Filing Fee u/s 234E^Interest u/s 220(2)^Total Default
+^^^*********** No Transactions Present **********^
+
+
